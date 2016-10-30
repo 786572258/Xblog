@@ -1,0 +1,7 @@
+*/.DS_Store
+storage/
+
+.DS_Store
+.env
+vendor/
+bootstrap/cache/
